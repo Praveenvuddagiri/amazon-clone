@@ -1,6 +1,6 @@
 # Live link to React App
 
-This project was hosted at [Amazon-Clone](https://clone-9d621.web.app)).
+This project was hosted at [Amazon-Clone](https://clone-9d621.web.app).
 
 # Getting Started with Create React App
 

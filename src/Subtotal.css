@@ -7,6 +7,7 @@
     background-color: #f3f3f3;
     border: 1px solid #dddddd;
     border-radius: 3px;
+    margin-left: 20px;
 }
 .subtotal__gift{
     display: flex;
@@ -29,4 +30,7 @@
 }
 .subtotal > button:hover{
     background-color: #a88734;
+}
+b{
+    font-size: 20px;
 }
